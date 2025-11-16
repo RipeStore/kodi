@@ -10,6 +10,6 @@ Being under the terms of the GNU General Public License v2.0 or later, according
 
 In addition, other licenses may also apply. Please see
 
-    LICENSES/README.md
+   https://github.com/xbmc/xbmc/blob/master/README.md
 
 for more details.
